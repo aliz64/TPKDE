@@ -1,0 +1,5 @@
+# Dont include these files
+
+*.swp
+*.pdf
+*.pyc
